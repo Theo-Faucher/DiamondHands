@@ -17,6 +17,7 @@ Maybe you want a different website them for the project? Consider `minimal-mista
     2. [Subsection](#subsec2-2)
 4. [Analysis Section](#section3)
 5. [Summary](#summary)
+6. [About Us](#About the Team)
 
 ## Introduction  <a name="introduction"></a>
 
@@ -76,7 +77,7 @@ Blah blah
 
 
 
-## About the team
+## About the Team
 ---
 ### Harrison Sneddon
 #### [LinkedIn](https://www.linkedin.com/in/harrison-sneddon/)
