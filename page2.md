@@ -1,4 +1,4 @@
-''' python
+``` python
 
 from datetime import datetime, timedelta, date
 import pandas as pd
@@ -17,6 +17,6 @@ end_date = l_date.strftime("%Y%m%d")
 curr_date = start_date
 end_int = int(end_date)
 
-'''
+```
 
 
