@@ -24,29 +24,49 @@ Maybe you want a different website them for the project? Consider `minimal-mista
 ## Introduction  <a name="introduction"></a>
 
 The main goal of this project is to explore potential price movement correlations between Bitcoin and a variety of other cryptocurrencies.
-This research aimed to predict price movement using two primary indicators:
-    1. Leading Indicators
-    2. Lagging Indicators
+This research aimed to predict price movement using:
+1. Leading Indicators
+1. Lagging Indicators
     
 ## Methodology <a name="meth"></a>
 
-Here is some code that we used to develop our analysis. Blah Blah. [More details are provided in the Appendix](page2).
- 
-Note that for the purposes of the website, you have to copy this code into the markdown file and  
-put the code inside trip backticks with the keyword `python`.
+Here is some code that we used to develop our analysis. [More details are provided in the Appendix](page2).
+Displayed below is the primary code which is used to download pricing information for the cryptocurrencies under investigation
+- Note: All data is sourced from [CoinMarketCap.com](https://coinmarketcap.com/) and their proprietary API system
 
 ```python
-import seaborn as sns 
-iris = sns.load_dataset('iris') 
 
-print(iris.head(),  '\n---')
-print(iris.tail(),  '\n---')
-print(iris.columns, '\n---')
-print("The shape is: ",iris.shape, '\n---')
-print("Info:",iris.info(), '\n---') # memory usage, name, dtype, and # of non-null obs (--> # of missing obs) per variable
-print(iris.describe(), '\n---') # summary stats, and you can customize the list!
-print(iris['species'].value_counts()[:10], '\n---')
-print(iris['species'].nunique(), '\n---')
+coin_list = []
+temp_list = []
+str = 'https://coinmarketcap.com/historical/{}/'
+final_df = pd.DataFrame()
+counter = 0
+
+sleepOne = 0.5
+sleepTwo = 6
+curr_int = 0
+from tqdm import tqdm
+import random
+while ((counter < days_loop) and (curr_int < end_int)):
+    counter+=1
+    try:
+        date = datetime(year=int(curr_date[0:4]), month=int(curr_date[4:6]), day=int(curr_date[6:8]))    
+        date += timedelta(days = 1)
+        s = date.strftime("%Y%m%d")
+        curr_date = s
+        curr_int = int(curr_date)
+        final_df = data_merge(curr_date,final_df,str,s)
+        print("Date", curr_date)
+        time.sleep(sleepOne)
+        print("Slept for:", sleepOne)
+    except ValueError:
+        time.sleep(sleepTwo)
+        date -= timedelta(days = 1)
+        s = date.strftime("%Y%m%d")
+        curr_date = s
+        print("Curr_date", curr_date)
+        counter-=1
+        print("Slept for:", sleepTwo)
 ```
 
 Notice that the output does NOT show! **You have to copy in figures and tables from the notebooks.**
