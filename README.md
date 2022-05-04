@@ -81,19 +81,19 @@ Using the calculated returns, correlation analysis was conducted to determine th
 Here are some graphs that we created in our analysis. We saved them to the `pics/` subfolder and include them via the usual markdown syntax for pictures.
 
 ![](pics/Daily Correlation.png)
-<br><br>
+<br>
 
-<br><br>
+<br>
 ![](pics/Weekly Correlation.png)
-<br><br>
+<br>
 
-<br><br>
+<br>
 ![](pics/biweekly correlation.png)
-<br><br>
+<br>
 
-<br><br>
+<br>
 ![](pics/month correlation.png)
-<br><br>
+<br>
 
 
 ## Summary <a name="summary"></a>
