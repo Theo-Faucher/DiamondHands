@@ -67,13 +67,14 @@ while ((counter < days_loop) and (curr_int < end_int)):
 Notice that the output does NOT show! **You have to copy in figures and tables from the notebooks.**
 
 ## Section <a name="section2"></a>
-Geberal Summary
+Geberal Summary of Analysis
 
 ### Subsection 1 <a name="subsec2-1"></a>
-Subsection A
+Pricing data was obtained for all coins.
+(Cryptocurrencies usually trade 24 hours per day, and thus the adjusted close value accounts for this)
+Daily, weekly, and monthly returns were then imputed given the procong data.
 ### Subsection 2 <a name="subsec2-2"></a>
-This is a subsection, formatted in heading 3 style
-Subsection B
+Using the calculated returns, correlation analysis was conducted to determine the significance of the correlation between Bitcoin and each additional cryptocurrency. 
 
 ## Analysis Section <a name="section3"></a>
 
