@@ -77,18 +77,40 @@ Blah blah
 
 
 ## About the team
+---
+### Harrison Sneddon
+#### [LinkedIn](https://www.linkedin.com/in/harrison-sneddon/)
 
 <img src="pics/HTS_LKDIN.jpg" alt="Harrison" width="300"/>
 <br>
-Harrison is a senior at Lehigh studying finance.
-    ** Current Employer: ** Raymond James & Associates
-    ** Career Track: ** Investment Banking, M&A. Industrial Technologies and Tech Enabled Services.
-<br><br><br>
-<img src="pics/don2.jpg" alt="don" width="300"/>
+Harrison is a senior at Lehigh University studying finance and international economic relations.
+
+- Current Employer: Analyst, Raymond James & Associates
+- Career Track: Investment Banking, M&A. Industrial Technologies and Tech Enabled Services.
+---       
+### Theo Faucher
+#### [LinkedIn](https://www.linkedin.com/in/theo-faucher-b98581173/)
+
+<img src="pics/Theo LKDIN.jpg" alt="Theo" width="300"/>
 <br>
-Don is an assistant professor at Lehigh.
+Theo is a senior at Lehigh University studying finance and economics.
+
+- Current Employer: Analyst, Cadent Consulting Group
+- Career Track: Strategy Consulting
+---
+### Ian Rosen
+#### [LinkedIn](https://www.linkedin.com/in/ianrosenr/)
+
+<img src="pics/IAN LKDIN.jpg" alt="Ian" width="300"/>
+<br>
+Ian is a junior at Lehigh University studying finance and computer science.
+
+- Current Employer: Summer Analyst, Stifel Financial
+- Career Track: Diversified Institutional Advisory Services
+---
 
 
-## More 
+
+
 
 To view the GitHub repo for this website, click [here](https://github.com/donbowen/teamproject).
