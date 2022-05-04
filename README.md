@@ -4,7 +4,7 @@
 This is a website to showcase our analysis of research directed at determining possible correlations between Bitcoin and a variety of other cryptocurrencies.
 (In pursuit of our final project for FIN 377 - Data Science for Finance at Lehigh University)
 
-To see the complete analysis file(s) click [here](https://github.com/julioveracruz/testwebsite/blob/main/notebooks/example.ipynb).
+To see the complete analysis file(s) click [here](https://github.com/LeDataSciFi/project-diamond-hands/blob/main/Final%20Components/final_report_notebook.ipynb).
 
 ## Table of contents
 1. [Introduction](#introduction)
