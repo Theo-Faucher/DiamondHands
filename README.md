@@ -72,13 +72,13 @@ while ((counter < days_loop) and (curr_int < end_int)):
 Notice that the output does NOT show! **You have to copy in figures and tables from the notebooks.**
 
 ## Section <a name="section2"></a>
-Blah blah
+Geberal Summary
 
 ### Subsection 1 <a name="subsec2-1"></a>
-This is a subsection, formatted in heading 3 style
-
+Subsection A
 ### Subsection 2 <a name="subsec2-2"></a>
 This is a subsection, formatted in heading 3 style
+Subsection B
 
 ## Analysis Section <a name="section3"></a>
 
@@ -98,7 +98,7 @@ More analysis.
 
 ## Summary <a name="summary"></a>
 
-Blah blah
+Current research and analysis suggests that other cryptocurrencies are unable to reliably and accurately predict Bitcoin price fluctuations. Current analysis suggests there are no signigicant arbitrage opportunities using this method.
 
 
 
