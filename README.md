@@ -80,16 +80,16 @@ Using the calculated returns, correlation analysis was conducted to determine th
 
 Here are some graphs that we created in our analysis. We saved them to the `pics/` subfolder and include them via the usual markdown syntax for pictures.
 
-<img src="pics/Daily Correlation.png" alt="Theo" width="300"/>
+<img src="pics/Daily Correlation.png" alt="NA" width="300"/>
 <br>
 
-<img src="pics/Weekly Correlation.png" alt="Theo" width="300"/>
+<img src="pics/Weekly Correlations.png" alt="NA" width="300"/>
 <br>
 
-<img src="pics/biweekly correlation.png" alt="Theo" width="300"/>
+<img src="pics/biweekly correlation.png" alt="NA" width="300"/>
 <br>
 
-<img src="pics/month correlation.png" alt="Theo" width="300"/>
+<img src="pics/month correlation.png" alt="NA" width="300"/>
 <br>
 
 
