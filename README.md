@@ -1,6 +1,8 @@
-# Welcome to our [team project website!](https://julioveracruz.github.io/testwebsite/)
+## Team DiamondHands 
+### Welcome to our [team project website!](https://julioveracruz.github.io/testwebsite/)
 
-This is a website to showcase our final project for FIN 377 - Data Science for Finance course at Lehigh University.
+This is a website to showcase our analysis of research directed at determining possible correlations between Bitcoin and a variety of other cryptocurrencies.
+(In pursuit of our final project for FIN 377 - Data Science for Finance at Lehigh University)
 
 To see the complete analysis file(s) click [here](https://github.com/julioveracruz/testwebsite/blob/main/notebooks/example.ipynb).
 
@@ -21,8 +23,11 @@ Maybe you want a different website them for the project? Consider `minimal-mista
 
 ## Introduction  <a name="introduction"></a>
 
-(The "Introduction" text above is formatted in heading 2 style.) The main goal of this project is to explore *(insert project idea here)*.  
-
+The main goal of this project is to explore potential price movement correlations between Bitcoin and a variety of other cryptocurrencies.
+This research aimed to predict price movement using two primary indicators:
+    1. Leading Indicators
+    2. Lagging Indicators
+    
 ## Methodology <a name="meth"></a>
 
 Here is some code that we used to develop our analysis. Blah Blah. [More details are provided in the Appendix](page2).
