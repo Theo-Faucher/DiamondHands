@@ -78,9 +78,11 @@ Blah blah
 
 ## About the team
 
-<img src="pics/julio.jpg" alt="julio" width="300"/>
+<img src="pics/HTS_LKDIN.jpg" alt="Harrison" width="300"/>
 <br>
-Julio is a senior at Lehigh studying finance.
+Harrison is a senior at Lehigh studying finance.
+    ** Current Employer: ** Raymond James & Associates
+    ** Career Track: ** Investment Banking, M&A. Industrial Technologies and Tech Enabled Services.
 <br><br><br>
 <img src="pics/don2.jpg" alt="don" width="300"/>
 <br>
